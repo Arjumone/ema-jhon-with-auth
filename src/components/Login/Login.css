@@ -45,7 +45,12 @@
   height: 55px;
   background: rgba(255,153,0,0.3);
   border: none;
+  font-size: 21px;
+  margin-top: 20px;
   border-radius: 5px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
 }
 .btn-submit:hover{
     background: rgba(255,153,0,0.6);
